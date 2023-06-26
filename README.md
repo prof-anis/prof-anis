@@ -18,8 +18,7 @@ I am Anifowose Tobi , a software developer from Nigeria. I love building amazing
 
 - 🔭 I’m currently working on Smstrap(https://smstrap.app) which i simply describe as Mailtrap for Sms. It is a side project that was birth by my need to have a common sms testing platform that i can use with frontend and mobile developers i work with. Some of my live projects include
 - AmatNow (https://amatnow.com)
-- Grocery Takeout (https://grocerytakeout.com)
-- Justhold (https://justhold.io)
+
 
 I am on twitter https://twitter.com/TobiAnifowose
 
