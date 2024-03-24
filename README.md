@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 I am Anifowose Tobi , a software developer from Nigeria. I love building amazing and challenging products both individually and when i find myself in a team. I believe that as the builder is building the building the building, the building is building the builder hence my resolve to always take on new challenges. Coding to me is not just about writing some technical jargons and symbols for a computer to interprete. Coding for me is seeing problems solved, lives changed through the things we build!
 
-- 🔭 I’m currently working on Smstrap(https://smstrap.app) which i simply describe as Mailtrap for Sms. It is a side project that was birth by my need to have a common sms testing platform that i can use with frontend and mobile developers i work with. Some of my live projects include
 - AmatNow (https://amatnow.com)
 
 
