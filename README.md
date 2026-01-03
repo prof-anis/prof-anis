@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 I am Anifowose Tobi , a software developer from Nigeria. I love building amazing and challenging products both individually and when i find myself in a team. I believe that as the builder is building the building the building, the building is building the builder hence my resolve to always take on new challenges. Coding to me is not just about writing some technical jargons and symbols for a computer to interprete. Coding for me is seeing problems solved, lives changed through the things we build!
 
-- AmatNow (https://amatnow.com)
-
-
 I am on twitter https://twitter.com/TobiAnifowose
 
 
